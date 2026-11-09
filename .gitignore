@@ -4,3 +4,5 @@ __pycache__/
 .DS_Store
 *.zip
 *.v2i.yolov8
+runs/
+detection_test_output.mp4
